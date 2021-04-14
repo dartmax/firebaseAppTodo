@@ -1,17 +1,13 @@
-body {
+body{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-
-#root {
+#root{
   display: flex;
   min-height: 100vh;
 }
-
-.d-flex {
+.d-flex{
   display: flex;
   flex-direction: column;
 }
-
-/*# sourceMappingURL=index.css.map */
